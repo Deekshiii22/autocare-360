@@ -1,0 +1,6 @@
+{
+  "name": "AutoCare 360",
+  "description": "All-in-one smart vehicle management platform for garage tracking, service history, fuel and expense analytics, digital documents, and maintenance reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
